@@ -45,10 +45,10 @@ New versions appear here as a new release. Install them the same way – your se
 
 ## Getting started
 
-1. **Turn it on** – open Top Bar Hider and switch *Turn on Top Bar Hider* to *On*. The picture shows what changes.
-2. **Step 1 – permission** – Top Bar Hider draws the black bar over the ride screen, which Android calls
-   *Display over other apps*. Tap *Grant permission*, tap *Top Bar Hider* in the list and turn on *Allow display over
-   other apps*. Then go back.
+1. **Step 1 – permission** – Top Bar Hider draws the black bar over the ride screen, which Android calls
+   *Display over other apps*. Open Top Bar Hider, tap *Grant permission*, tap *Top Bar Hider* in the list and turn on
+   *Allow display over other apps*. Then go back.
+2. **Turn it on** – switch *Turn on Top Bar Hider* to *On*. The picture shows what changes.
 3. **Step 2 – show alerts in full** *(optional)* – so that the bar makes room for every alert, set up the
    accessibility service: tap *Set up accessibility*, tap *Top Bar Hider* under *Downloaded apps*, turn on *Use Top Bar
    Hider* (the *shortcut* below it stays off), then **scroll all the way down** in the window that opens (its text is
@@ -138,10 +138,10 @@ Neue Versionen erscheinen hier als neue Version. Installiere sie genauso – dei
 
 ### Erste Schritte
 
-1. **Einschalten** – öffne Top Bar Hider und stelle *Top Bar Hider aktivieren* auf *An*. Das Bild zeigt, was sich ändert.
-2. **Schritt 1 – Erlaubnis** – Top Bar Hider zeichnet den schwarzen Balken über den Fahrt-Bildschirm, was Android
-   *Über anderen Apps einblenden* nennt. Tippe auf *Erlaubnis geben*, in der Liste auf *Top Bar Hider* und schalte
-   *Einblendung über anderen Apps zulassen* ein. Dann zurück.
+1. **Schritt 1 – Erlaubnis** – Top Bar Hider zeichnet den schwarzen Balken über den Fahrt-Bildschirm, was Android
+   *Über anderen Apps einblenden* nennt. Öffne Top Bar Hider, tippe auf *Erlaubnis geben*, in der Liste auf
+   *Top Bar Hider* und schalte *Einblendung über anderen Apps zulassen* ein. Dann zurück.
+2. **Einschalten** – stelle *Top Bar Hider aktivieren* auf *An*. Das Bild zeigt, was sich ändert.
 3. **Schritt 2 – Warnungen vollständig anzeigen** *(optional)* – damit der Balken bei jeder Warnung Platz macht, richte
    die Bedienungshilfe ein: Tippe auf *Bedienungshilfe einrichten*, unter *Heruntergeladene Apps* auf *Top Bar Hider*,
    schalte *Top Bar Hider verwenden* ein (die *Verknüpfung* darunter bleibt aus), dann **ganz nach unten scrollen** im
