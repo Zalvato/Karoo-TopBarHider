@@ -16,6 +16,8 @@ with a tap whenever you want to look.
 - **Data field** – *TOP BAR* on a data page: tap it to show the top line or hide it again (it stays that way, also on
   the next ride), or let a timer hide it again by itself after a few seconds.
 - **Pauses** – optionally show the top line while the ride is paused, and also on auto-pause (e.g. at traffic lights).
+- **Radar strip stays free** – tell the app on which side Karoo draws your radar strip (*Radar: Left / Right*). While
+  your radar sees a vehicle, the bar leaves that strip free, so you always see the approaching car.
 - **Alerts stay readable** – alerts appear at the top of the ride screen, right where the bar is. The bar makes room
   for them: for alerts of extensions that ask for room themselves (for example Karoo Reminder, Route Graph, Tile
   Hunting), and – with the optional accessibility service – for every alert, Karoo's own included.
@@ -109,6 +111,8 @@ Datenfeld holt sie mit einem Antippen zurück, wenn du doch einmal schauen wills
 - **Datenfeld** – *TOP BAR* auf einer Daten-Seite: Antippen zeigt die Kopfzeile oder versteckt sie wieder (es bleibt so,
   auch bei der nächsten Fahrt), oder ein Timer versteckt sie nach ein paar Sekunden von selbst wieder.
 - **Pausen** – auf Wunsch ist die Kopfzeile während einer Pause sichtbar, auch bei Auto-Pause (z. B. an der Ampel).
+- **Radar-Leiste bleibt frei** – sag der App, auf welcher Seite Karoo deine Radar-Leiste zeichnet (*Radar: Links / Rechts*).
+  Solange dein Radar ein Fahrzeug sieht, lässt der Balken diese Leiste frei, sodass du das herannahende Auto immer siehst.
 - **Warnungen bleiben lesbar** – Warnungen erscheinen oben auf dem Fahrt-Bildschirm, genau wo der Balken liegt. Der
   Balken macht dafür Platz: bei Warnungen von Erweiterungen, die selbst Platz anfordern (zum Beispiel Karoo Reminder,
   Route Graph, Tile Hunting), und – mit der optionalen Bedienungshilfe – bei jeder Warnung, auch bei Karoos eigenen.
