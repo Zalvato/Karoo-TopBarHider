@@ -43,7 +43,8 @@ Made for the **Karoo 3** (tested there).
    the APK itself, so it needs internet – Wi-Fi or your phone's hotspot.
 3. The Karoo installs Top Bar Hider. You'll find it under *Extensions*.
 
-New versions appear here as a new release. Install them the same way – your settings stay.
+**Updates:** Open Top Bar Hider's info page under *Extensions* on the Karoo. When a new version is out, the Karoo offers it
+there (it needs Wi-Fi or a hotspot). Your settings stay.
 
 ## Getting started
 
@@ -60,6 +61,7 @@ New versions appear here as a new release. Install them the same way – your se
 
 In the app you can also choose on which data pages the bar shows, whether the top line comes back during a pause, and
 what a tap on the data field does: *Switch* (shows or hides, until your next tap) or *Timer* (shows for a few seconds).
+If you ride with a radar, you can also tell it on which side Karoo draws the radar strip.
 
 ## Privacy
 
@@ -138,7 +140,8 @@ Gemacht für den **Karoo 3** (dort getestet).
    APK selbst herunter, braucht also Internet – WLAN oder den Hotspot deines Handys.
 3. Der Karoo installiert Top Bar Hider. Du findest es unter *Erweiterungen*.
 
-Neue Versionen erscheinen hier als neue Version. Installiere sie genauso – deine Einstellungen bleiben.
+**Updates:** Öffne die Info-Seite von Top Bar Hider unter *Erweiterungen* auf dem Karoo. Gibt es eine neue Version, bietet der
+Karoo sie dort an (mit WLAN oder Hotspot). Deine Einstellungen bleiben.
 
 ### Erste Schritte
 
@@ -157,6 +160,7 @@ Neue Versionen erscheinen hier als neue Version. Installiere sie genauso – dei
 In der App stellst du außerdem ein, auf welchen Daten-Seiten der Balken erscheint, ob die Kopfzeile in einer Pause
 zurückkommt und was das Antippen des Datenfelds bewirkt: *Umschalten* (zeigt oder versteckt, bis zum nächsten
 Antippen) oder *Timer* (zeigt für ein paar Sekunden).
+Wenn du mit Radar fährst, stellst du außerdem ein, auf welcher Seite Karoo die Radar-Leiste zeichnet.
 
 ### Datenschutz
 
